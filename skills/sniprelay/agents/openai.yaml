@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sniprelay"
+  short_description: "Share and consume expiring text with Sniprelay"
+  default_prompt: "Use $sniprelay to share this snippet with the requested privacy and expiry."
